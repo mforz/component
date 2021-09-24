@@ -1,0 +1,21 @@
+{
+  "name": "component",
+  "version": "1.0.0",
+  "description": "React Components",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "scripts": { 
+    "build": "webpack --config ./scripts/webpack.base.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mforz/component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mforz/component/issues"
+  },
+  "homepage": "https://github.com/mforz/component#readme"
+}
